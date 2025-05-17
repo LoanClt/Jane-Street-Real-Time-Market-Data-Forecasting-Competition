@@ -1,7 +1,7 @@
 # Kaggle：Jane Street Real-Time Market Data Forecasting
 Competition Link: https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting
 
-Training Platform: https://www.autodl.com/
+Training Platform: https://www.autodl.com/ (Use Google Translate)
 
 Public leaderboard: 
 96/3757
